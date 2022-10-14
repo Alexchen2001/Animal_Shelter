@@ -1,0 +1,8 @@
+# ninja log v5
+837	932	1665444974793197900	Animal_Shelter	cd1758806854f86b
+3	837	1665444974696460251	CMakeFiles/Animal_Shelter.dir/main.cpp.o	50fa00e841bfb34d
+7	638	1665444788568090382	CMakeFiles/Animal_Shelter.dir/management.cpp.o	539810ecf3715e27
+3	793	1665445025511457832	CMakeFiles/Animal_Shelter.dir/main.cpp.o	50fa00e841bfb34d
+793	868	1665445025588760422	Animal_Shelter	cd1758806854f86b
+3	656	1665445341180031175	CMakeFiles/Animal_Shelter.dir/main.cpp.o	50fa00e841bfb34d
+657	722	1665445341247426952	Animal_Shelter	cd1758806854f86b
